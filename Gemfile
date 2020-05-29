@@ -5,7 +5,10 @@ ruby '2.6.5'
 # Paginate a large number of elements
 # into determined number of elem. for each page
 gem 'will_paginate'
+gem 'image_processing',           '1.9.3'
+gem 'mini_magick',                '4.9.5'
 gem 'bootstrap-will_paginate'
+gem 'active_storage_validations', '0.8.9'
 # Faker
 gem 'faker', '2.11.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -66,6 +69,7 @@ end
 
 group :production do
   gem 'pg'
+  gem 'aws-sdk-s3', '1.46.0', require: false
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
