@@ -5,7 +5,7 @@ This is the sample application for
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 (6th Edition)
 by [Michael Hartl](https://www.michaelhartl.com/).
-
+### :point_right: [Live Demo Link](https://obscure-hollows-48489.herokuapp.com/) :point_left:
 ![screenshot](app/assets/images/screenshot.png)
 
 ## License
