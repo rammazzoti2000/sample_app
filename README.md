@@ -6,7 +6,7 @@ Learn Web Development with Rails*](https://www.railstutorial.org/)
 (6th Edition)
 by [Michael Hartl](https://www.michaelhartl.com/).
 
-![screenshot](assets/images/screenshot.png)
+![screenshot](app/assets/images/screenshot.png)
 
 ## License
 
