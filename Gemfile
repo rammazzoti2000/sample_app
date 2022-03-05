@@ -5,7 +5,7 @@ ruby '2.6.5'
 # Paginate a large number of elements
 # into determined number of elem. for each page
 gem 'will_paginate'
-gem 'image_processing',           '1.9.3'
+gem 'image_processing',           '1.12.2'
 gem 'mini_magick',                '4.9.5'
 gem 'bootstrap-will_paginate'
 gem 'active_storage_validations', '0.8.9'
